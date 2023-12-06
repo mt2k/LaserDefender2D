@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6ca6880b654d142bac6e439ffbbe09, type: 3}
+  m_Name: Big Wave (2)
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 4507586543132960976, guid: 7056a70b3ece30e48a86a16ba32a5536, type: 3}
+  pathPrefab: {fileID: 2240224574306152237, guid: 13415ae1396a14f4f9f05fc635acbb8c, type: 3}
+  timeBetweenSpawns: 2
+  spawnRandomFactor: 0.5
+  numberOfEnemies: 7
+  moveSpeed: 2
